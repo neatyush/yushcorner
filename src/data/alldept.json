@@ -1,0 +1,146 @@
+{
+  "Upselling and Selling": [
+    {
+      "id": 1,
+      "title": "How to Master the Art of Upselling in Hospitality",
+      "url": "https://www.hospitalitynet.org/opinion/4125840.html",
+      "category": "Upselling and Selling"
+    },
+    {
+      "id": 2,
+      "title": "Maximizing Revenue: Mastering the Art of Upselling in Hotels",
+      "url": "https://chatlyn.com/en/blog/upselling-in-hotels/",
+       "category": "Upselling and Selling"
+    }
+  ],
+  "Sales": [
+    {
+      "id": 3,
+      "title": "14 Highly Effective B2C & B2B Hotel Sales Strategies",
+      "url": "https://catalaconsulting.co.uk/14-effective-b2c-b2b-hotel-sales-strategies/"
+    },
+    {
+      "id": 4,
+      "title": "Hoteliers' Chat - How to be Successful in Hotel Sales",
+      "url": "https://www.youtube.com/watch?v=J5iw9LEDShc"
+    }
+  ],
+  "Wine": [
+    {
+      "id": 5,
+      "title": "World of Wine: From Grape to Glass",
+      "url": "https://www.edx.org/learn/wine/university-of-adelaide-world-of-wine-from-grape-to-glass#.VQYpuxkQHqB"
+    },
+    {
+      "id": 6,
+      "title": "Easily Understand Wine",
+      "url": "https://winefolly.com/guides/"
+    },
+    {
+      "id": 7,
+      "title": "Every Wine Explained Video Course",
+      "url": "https://www.youtube.com/watch?v=dY_zzPxBxFA&t=27s"
+    },
+    {
+      "id": 8,
+      "title": "Food And Wine Pairing",
+      "url": "https://winefolly.com/wine-pairing/getting-started-with-food-and-wine-pairing/"
+    }
+  ],
+  "Cocktails": [
+    {
+      "id": 9,
+      "title": "Classic Cocktail",
+      "url": "https://www.foodandbeveragetrainer.com/wp-content/uploads/2015/05/Classic-Cocktails.pdf"
+    },
+    {
+      "id": 10,
+      "title": "History of Cocktail",
+      "url": "https://jiggercocktails.com/the-history-of-cocktails/"
+    },
+    {
+      "id": 11,
+      "title": "Modern Cocktail to Include in your Bar",
+      "url": "https://mycocktailrecipes.com/recipes/classics-and-modern-cocktails/modern-cocktails?page=3"
+    },
+    {
+      "id": 12,
+      "title": "Mocktails",
+      "url": "https://www.bbcgoodfood.com/recipes/collection/summer-mocktail-recipes"
+    }
+  ],
+  "Cigar and Cigarette": [
+    {
+      "id": 13,
+      "title": "Cigars vs Cigarettes: What's The Difference?",
+      "url": "https://www.northwoodshumidors.com/blogs/default-blog/cigar-blog-cigar-vs-cigarette"
+    },
+    {
+      "id": 14,
+      "title": "Ten best drinks to pair with a cigar",
+      "url": "https://www.villigercigars.com/en/blog-detail/the-ten-best-drinks-to-pair-with-a-cigar/"
+    }
+  ],
+  "Food and Beverage": [
+    {
+      "id": 15,
+      "title": "Intoduction to food and benerage service",
+      "url": "https://aissmschmct.in/wp-content/uploads/2020/07/chapter-1-Introduction-to-Food-and-Beverage-industry-beverage.pdf"
+    },
+    {
+      "id": 16,
+      "title": "Food and Beverage Formats",
+      "url": "https://setupmyhotel.com/hotel-formats/food-and-beverage-formats/standard-recipe-costing-format-for-fb-hotels-restaurants/"
+    }
+  ],
+  "Marketing": [
+    {
+      "id": 17,
+      "title": "Luxury hotel marketing: 5 key strategies to succeed",
+      "url": "https://hospitalityinsights.ehl.edu/luxury-hotel-marketing"
+    },
+    {
+      "id": 18,
+      "title": "Hotel Marketing Plan for 2025",
+      "url": "https://www.xotels.com/en/hotel-management/hotel-marketing-plan-strategies"
+    }
+  ],
+  "HR": [
+    {
+      "id": 19,
+      "title": "Free Hr Document",
+      "url": "https://staffsquared.com/free-hr-documents/"
+    },
+    {
+      "id": 20,
+      "title": "Best HR Practices in the Hospitality Industry",
+      "url": "https://hospitalityinsights.ehl.edu/hospitality-industry-hr-practices"
+    }
+  ],
+  "Food Safety and Hygiene": [
+    {
+      "id": 21,
+      "title": "All the food safety hygiene and food safety you need to know",
+      "url": "https://iufost.org/iufostftp/sadc_food_hygiene_modified_jan_2013_0.pdf"
+    }
+  ],
+  "Food Handlers Guide": [
+    {
+      "id": 22,
+      "title": "Food Handlers Guide",
+      "url": "https://www.nea.gov.sg/docs/default-source/resource/food-handler%27s-handbook-(english).pdf"
+    }
+  ],
+  "Interview": [
+    {
+      "id": 23,
+      "title": "10 Common Hospitality Interview Questions",
+      "url": "https://shortcoursesau.edu.au/pdf/sca/job-skills/10-Common-Hospitality-Interview-Questions.pdf"
+    },
+    {
+      "id": 24,
+      "title": "33 hospitality interview questions (with example answers)",
+      "url": "https://uk.indeed.com/career-advice/interviewing/hospitality-interview-questions"
+    }
+  ]
+}
