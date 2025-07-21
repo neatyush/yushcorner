@@ -1,7 +1,7 @@
 import hrPoster from "../../../../src/assets/originalimages/hr.png";
 
 export const HrData = {
-  title: "Hotel HR Resources (Free)",
+  title: "Human Resource and Learning and Develpment",
   date: "2025-07-18",
   bannerImg: hrPoster,
   intro: "Human Resource (HR) is the heart of hotel operations. A good HR team helps in hiring the right people, creating fair policies, and improving employee satisfaction. Here are some useful resources to learn more about HR in hotels.",

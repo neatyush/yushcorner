@@ -1,7 +1,7 @@
 import wineImage from "../../../../src/assets/originalimages/foodandwinepairing.png";
 
 export const WineData = {
-  title: "Free Wine Learning Resources",
+  title: "Wine: History, Making, Culture and Pairing",
   date: "July 21, 2025",
   intro:
     "Explore these free online resources to deepen your understanding of wine — from grape varieties, tasting techniques, to pairing with food. Perfect for beginners and enthusiasts alike.",

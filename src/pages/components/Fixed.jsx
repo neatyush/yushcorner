@@ -17,10 +17,10 @@ import { Link } from 'react-router-dom'
   /* Blog Component */
 }
 const Fixed = () => {
-  const blogSectionTitle = "Free Learning Resources";
+  const blogSectionTitle = "Free Learning Resource";
   const blogSectionTitleTwo = "Tips and Tricks";
   const blogSectionTitleThree = "Wine, Cocktails and Cigars";
-  const blogSectionTitleFour = "Blog, Quiz and more stuff comming soon";
+  const blogSectionTitleFour = "Blog, Quiz and more exciting stuff comming soon";
 
   return (
     <>

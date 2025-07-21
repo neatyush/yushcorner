@@ -1,7 +1,7 @@
 import interviewBanner from "../../../../src/assets/originalimages/interviewquestions.png";
 
 export const InterviewData = {
-  title: "Top Interview Questions by Department",
+  title: "Most Repeated Interview Questions classified by department",
   date: "July 21, 2025",
   bannerImg: interviewBanner,
   intro:

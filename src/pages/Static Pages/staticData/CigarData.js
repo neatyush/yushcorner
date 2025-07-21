@@ -1,7 +1,7 @@
 import cigarPoster from "../../../../src/assets/originalimages/cigars.png";
 
 export const CigarData = {
-  title: "Cigar and Cigarette Resources",
+  title: "Cigar and Cigarette",
   date: "July 21, 2025",
   intro:
     "Explore the key differences between cigars and cigarettes and discover the best drink pairings to enhance your cigar experience.",

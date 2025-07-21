@@ -1,7 +1,7 @@
 import salesPoster from "../../../../src/assets/originalimages/salesandmarketing.png"
 
 export const SalesData = {
-  title: "Hotel Sales & Marketing Resources (Free)",
+  title: "Hotel Sales",
   date: "2025-07-18",
   bannerImg:
     salesPoster,

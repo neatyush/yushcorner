@@ -1,10 +1,10 @@
 import cocktailBanner from "../../../../src/assets/originalimages/cocktailcreation.png";
 
 export const CocktailData = {
-  title: "Free Cocktail Learning Resources",
+  title: "Free Cocktail Learning",
   date: "July 21, 2025",
   intro:
-    "Discover the world of cocktails with these free resources. From classic recipes and cocktail history to modern mixes and refreshing mocktails, start building your bartending knowledge here.",
+    "Discover the world of cocktails. From classic recipes and cocktail history to modern mixes and refreshing mocktails, start building your bartending knowledge here.",
     bannerImg: cocktailBanner
     ,
   sections: [

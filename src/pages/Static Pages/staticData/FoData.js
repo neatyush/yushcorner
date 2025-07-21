@@ -1,7 +1,7 @@
 import foPoster from "../../../../src/assets/originalimages/frontoffice.png";
 
 export const FoData = {
-  title: "Free Front Office & Reception Resources",
+  title: "Front Office & Reservation",
   date: "2025-07-20",
   bannerImg: foPoster,
 

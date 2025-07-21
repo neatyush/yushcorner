@@ -1,10 +1,10 @@
 import fnbPoster from "../../../../src/assets/originalimages/foodhandler.png";
 
 export const FandbData = {
-  title: "Food & Beverage Resources (Free)",
+  title: "Food & Beverage",
   date: "2025-07-18",
   bannerImg: fnbPoster,
-  intro: `Here are some free and useful Food & Beverage training materials and resources. These can help you learn or refresh important knowledge in service, formats, and order-taking.`,
+  intro: `Here are some super useful Food & Beverage training materials and resources. These can help you learn or refresh important knowledge in service, formats, and order-taking.`,
 
   sections: [
     {

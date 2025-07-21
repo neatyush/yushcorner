@@ -1,7 +1,7 @@
 import marketingPoster from "../../../../src/assets/originalimages/salesandmarketing.png";
 
 export const MarketingData = {
-  title: "Hotel Marketing Resources (Free)",
+  title: "Hotel Marketing (Digital and Traditional Marketing)",
   date: "2025-07-18",
   bannerImg: marketingPoster,
 

@@ -1,7 +1,7 @@
 import kitchenPoster from "../../../../src/assets/originalimages/kitchen.png";
 
 export const KitchenData = {
-  title: "Free Kitchen & Cooking Resources",
+  title: "Kitchen and Food Safety ",
   date: "2025-07-20",
   bannerImg: kitchenPoster,
 
