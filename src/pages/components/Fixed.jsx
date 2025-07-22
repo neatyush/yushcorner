@@ -25,7 +25,7 @@ const Fixed = () => {
   return (
     <>
       {/* Section Title */}
-      <div className="mt-[80px] lg:px-[100px] md:px-36">
+      <div className="mt-[80px] lg:px-[200px] md:px-36">
         <p className="text-[32px] font-nunito mx-auto text-center font-bold lg:text-left lg:mx-0 lg:ml-8">
           {blogSectionTitle}
         </p>
