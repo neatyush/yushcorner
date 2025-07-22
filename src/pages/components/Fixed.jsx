@@ -93,6 +93,48 @@ const Fixed = () => {
         </div>
       </div>
 
+
+      {/* ------------------------------------------------------------------------------------------------------------ */}
+       {/* Wine, Cigar and cocktails */}
+         <div className="mt-[80px] lg:px-[230px] md:px-36">
+        <p className="text-[32px] font-nunito mx-auto text-center font-bold lg:text-left lg:mx-0 lg:ml-8">
+          {blogSectionTitleThree}
+        </p>
+        <hr className="bg-gray-950 w-[90%] mx-auto" />
+      </div>
+      
+      <div className="flex justify-center">
+        <div className="wholecard pt-24 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 px-4 ">
+
+          {/* Wine */}
+          <Link to="/wine" className="card bg-white pb-4 rounded-xl w-[296px] shadow-xl overflow-hidden flex flex-col">
+            <img src={winePoster} alt="hotelsales" className="w-full object-cover h-[185px]" />
+            <div className="cardTitle p-2 flex gap-3 flex-col">
+              <h1 className="font-nunito text-[16px] font-semibold p-0 m-0 ">Wine</h1>
+              <h3 className="font-nunito text-[14px] font-medium p-0 m-0">Cover the basic of wine...</h3>
+            </div>
+          </Link>
+
+          {/* Cocktails */}
+          <Link to="/cocktail" className="card bg-white pb-4 rounded-xl w-[296px] shadow-xl overflow-hidden">
+            <img src={cocktailPoster} alt="hotelmarketing" className="w-[296px] h-[185px] object-cover" />
+            <div className="cardTitle p-2 flex gap-3 flex-col">
+              <h1 className="font-nunito text-[16px] font-semibold p-0 m-0 ">Cocktail</h1>
+              <h3 className="font-nunito text-[14px] font-medium p-0 m-0">All classic cocktails you must know...</h3>
+            </div>
+          </Link>
+
+          {/* Cigar*/}
+          <Link to="/Cigar" className="card bg-white pb-4 rounded-xl w-[296px] shadow-xl overflow-hidden">
+            <img src={cigarPoster} alt="frontofficeinhotel" className="w-[296px] h-[185px] object-cover" />
+            <div className="cardTitle p-2 flex gap-3 flex-col">
+              <h1 className="font-nunito text-[16px] font-semibold p-0 m-0 ">Cigar</h1>
+              <h3 className="font-nunito text-[14px] font-medium p-0 m-0">Learn the how cigars are made...</h3>
+            </div>
+          </Link>
+        </div>
+      </div>
+
       {/* ------------------------------------------------------------------------------------------------------- */}
        {/* Section Two */}
       <div className="mt-[80px] lg:px-[230px] md:px-36">
@@ -134,50 +176,11 @@ const Fixed = () => {
           </Link>
         </div>
       </div>
-{/* ------------------------------------------------------------------------------------------------------------ */}
-       {/* Wine, Cigar and cocktails */}
-         <div className="mt-[80px] lg:px-[230px] md:px-36">
-        <p className="text-[32px] font-nunito mx-auto text-center font-bold lg:text-left lg:mx-0 lg:ml-8">
-          {blogSectionTitleThree}
-        </p>
-        <hr className="bg-gray-950 w-[90%] mx-auto" />
-      </div>
-      
-      <div className="flex justify-center">
-        <div className="wholecard pt-24 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 px-4 ">
 
-          {/* Wine */}
-          <Link to="/wine" className="card bg-white pb-4 rounded-xl w-[296px] shadow-xl overflow-hidden flex flex-col">
-            <img src={winePoster} alt="hotelsales" className="w-full object-cover h-[185px]" />
-            <div className="cardTitle p-2 flex gap-3 flex-col">
-              <h1 className="font-nunito text-[16px] font-semibold p-0 m-0 ">Wine</h1>
-              <h3 className="font-nunito text-[14px] font-medium p-0 m-0">Cover the basic of wine...</h3>
-            </div>
-          </Link>
-
-          {/* Cocktails */}
-          <Link to="/cocktail" className="card bg-white pb-4 rounded-xl w-[296px] shadow-xl overflow-hidden">
-            <img src={cocktailPoster} alt="hotelmarketing" className="w-[296px] h-[185px] object-cover" />
-            <div className="cardTitle p-2 flex gap-3 flex-col">
-              <h1 className="font-nunito text-[16px] font-semibold p-0 m-0 ">Cocktail</h1>
-              <h3 className="font-nunito text-[14px] font-medium p-0 m-0">All classic cocktails you must know...</h3>
-            </div>
-          </Link>
-
-          {/* Cigar*/}
-          <Link to="/Cigar" className="card bg-white pb-4 rounded-xl w-[296px] shadow-xl overflow-hidden">
-            <img src={cigarPoster} alt="frontofficeinhotel" className="w-[296px] h-[185px] object-cover" />
-            <div className="cardTitle p-2 flex gap-3 flex-col">
-              <h1 className="font-nunito text-[16px] font-semibold p-0 m-0 ">Cigar</h1>
-              <h3 className="font-nunito text-[14px] font-medium p-0 m-0">Learn the how cigars are made...</h3>
-            </div>
-          </Link>
-        </div>
-      </div>
 
       {/* ------------------------------------------------------------------------------------------------------------ */}
-       {/* Wine, Cigar and cocktails */}
-         <div className="mt-[80px] lg:px-[230px] md:px-36">
+       {/* Comming Soon */}
+         <div className="mt-[80px] p-20 lg:px-[230px] md:px-36">
         <p className="text-[32px] font-nunito mx-auto text-center font-bold lg:text-left lg:mx-0 lg:ml-8">
           {blogSectionTitleFour}
         </p>

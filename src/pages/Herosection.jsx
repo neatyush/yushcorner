@@ -20,7 +20,7 @@ const Herosection = () => {
           One-Stop Portal For Hospitality Lovers
         </p>
       </div>
-
+    
       {/* Search Box with Icon */}
       <form className="mt-8 flex justify-center">
         <div className="relative w-2/4">
@@ -37,7 +37,7 @@ const Herosection = () => {
       </form>
 
       {/* Category Buttons */}
-      <div className="mt-8 flex flex-row justify-center gap-2 flex-wrap">
+      <div className="mt-8 flex flex-row justify-center gap-2 flex-wrap p-8">
   <button className="flex items-center gap-2 bg-[#004e98] text-white rounded-md font-medium px-4 py-2 hover:bg-slate-700 transition duration-500 transform hover:scale-105 hover:-translate-y-1">
     <FaBook className="text-yellow-300" />
     Free Learning Resources
