@@ -20,10 +20,8 @@ const Modal = ({ isOpen, onClose }) => {
       <div className="bg-white rounded-lg p-6 w-11/12 max-w-md shadow-lg">
         <h2 className="text-xl font-bold mb-4 text-[#004e98]">About Me</h2>
         <p className="text-gray-700 text-sm mb-6">
-          Hello! I'm Ayush Paudel — a curious and creative hospitality learner
-          with a love for technology and education. I enjoy simplifying
-          hospitality knowledge and sharing useful resources to help others
-          grow in their careers.
+        Hello, I'm Ayush Paudel — a service-driven hospitality professional with experience in Food & Beverage and Sales, and a strategic focus on customer retention and long-term guest relationships.
+This platform is my small but meaningful attempt to give back — by sharing simplified, actionable resources to help others learn, grow, and build lasting careers in hospitality.
         </p>
         <div className="flex justify-end">
           <button
